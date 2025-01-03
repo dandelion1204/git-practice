@@ -1,1 +1,2 @@
 This is file A.txt
+Create a new branch 'hello-world' and edit this file.
